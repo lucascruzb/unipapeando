@@ -4,9 +4,9 @@ function Home(){
     return (<div>
         <h1>CXLXMBIV KIDS</h1>
 
-        <link href="/sobre">
+        <Link href="/sobre">
              <a>Acessar página Sobre</a>
-        </link>
+        </Link>
      </div>)
 }
 
